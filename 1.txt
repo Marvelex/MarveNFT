@@ -1,0 +1,5 @@
+{
+"name": "MARVELEX #1",
+"description": "inspirada para los amantes de Marvel",
+ "image": "https://https://raw.githubusercontent.com/Marvelex/MarveNFT/main/1.png"
+}
